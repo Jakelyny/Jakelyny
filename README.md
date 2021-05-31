@@ -6,7 +6,7 @@
     Técnico em Manutenção e Suporte em Informática pelo IFSul - Passo Fundo.<br><br><br>
 </samp>
 <p align="center">
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="90"> 
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150"> 
 </em></p>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jakelyny&layout=compact&theme=radical" alt="My Github Stats"><br><br>
