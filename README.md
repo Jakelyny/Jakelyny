@@ -6,7 +6,7 @@
 </samp>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jakelyny&layout=compact&theme=radical" alt="My Github Stats"><br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jakelyny&layout=compact&theme=radical" alt="My Github Stats"><br><br>
 
 <p align="center">
   <i>🍃 Outros lugares em que pode me encontrar 🍃</i>
