@@ -5,7 +5,7 @@
     <br><br>No momento sou apenas uma estudante do Bacharelado em Ciência da Computação e Técnico em Manutenção e Suporte em Informática pelo IFSul - Passo Fundo.<br><br><br>
 </samp>
 
-
+<p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jakelyny&layout=compact&theme=radical" alt="My Github Stats"><br>
 
 <p align="center">
