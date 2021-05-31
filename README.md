@@ -1,12 +1,12 @@
 <p align="center">
   <br>
   <samp>
-    Hello there! Sou a Jakelyny. <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px">
-    <br>No momento sou apenas uma estudante de Bacharelado em Ciência da Computação e Técnico em Manutenção e Suporte em Informática pelo IFSul - Passo Fundo.<br>
+    Hello there! Sou a Jakelyny. <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="20px">
+    <br><br>No momento sou apenas uma estudante do Bacharelado em Ciência da Computação e Técnico em Manutenção e Suporte em Informática pelo IFSul - Passo Fundo.<br><br><br>
 </samp>
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jakelyny&layout=compact&theme=radical" alt="My Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jakelyny&layout=compact&theme=radical" alt="My Github Stats"><br>
 
 <p align="center">
   <i>🍃 Outros lugares em que pode me encontrar 🍃</i>
