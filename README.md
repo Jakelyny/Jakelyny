@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @Jakelyny
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<p align="center">
+  <br>
+  <samp>
+    Hello there! Sou a Jakelyny. <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px">
+    <br>No momento sou apenas uma estudante de Bacharelado em Ciência da Computação e Técnico em Manutenção e Suporte em Informática pelo IFSul - Passo Fundo.<br>
+</samp>
+
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jakelyny&layout=compact&theme=radical" alt="My Github Stats">
 
 <p align="center">
