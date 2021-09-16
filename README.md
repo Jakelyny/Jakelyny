@@ -1,7 +1,7 @@
 <p align="center">
 <br>
-<samp>
-### Hello there! Sou a Jakelyny <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="60px" />
+###<samp>
+ Hello there! Sou a Jakelyny <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="60px" />
     <br><br>No momento sou apenas uma estudante do Bacharelado em Ciência da Computação e<br>
     Técnico em Manutenção e Suporte em Informática pelo IFSul - Passo Fundo.<br><br><br>
 </samp>
