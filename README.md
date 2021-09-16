@@ -20,3 +20,4 @@
 <a href="mailto:jakelynysousa.a@gmail.com"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-gmail-48.png" alt="Gmail"></a> &nbsp; &nbsp;
 </p>
 
+ ![Snake animation](https://github.com/Jakelyny/Jakelyny/blob/output/github-contribution-grid-snake.svg)
