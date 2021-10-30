@@ -2,8 +2,7 @@
 <br>
 <samp>
     Hello there! Sou a Jakelyny. <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="20px">
-    <br><br>No momento sou apenas uma estudante do Bacharelado em Ciência da Computação e<br>
-    Técnico em Manutenção e Suporte em Informática pelo IFSul - Passo Fundo.<br><br><br>
+    <br><br>No momento sou apenas uma estudante do Bacharelado em Ciência da Computação no IFSul - Passo Fundo.<br><br><br>
 </samp>
 <p align="center">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150"> 
