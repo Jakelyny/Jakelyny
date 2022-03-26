@@ -19,4 +19,8 @@
 <a href="mailto:jakelynysousa.a@gmail.com"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-gmail-48.png" alt="Gmail"></a> &nbsp; &nbsp;
 </p>
 
+---
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=1200&lines="𝘔𝘶𝘪𝘵𝘢𝘴+𝘱𝘦𝘴𝘴𝘰𝘢𝘴+𝘱𝘦𝘲𝘶𝘦𝘯𝘢𝘴,+𝘦𝘮+𝘭𝘶𝘨𝘢𝘳𝘦𝘴+𝘱𝘦𝘲𝘶𝘦𝘯𝘰𝘴,+𝘧𝘢𝘻𝘦𝘯𝘥𝘰+𝘤𝘰𝘪𝘴𝘢𝘴+𝘱𝘦𝘲𝘶𝘦𝘯𝘢𝘴,+𝘱𝘰𝘥𝘦𝘮+𝘮𝘶𝘥𝘢𝘳+𝘰+𝘮𝘶𝘯𝘥𝘰".+-+Eduardo+Galeano+-)](https://git.io/typing-svg)
+---
+
 
