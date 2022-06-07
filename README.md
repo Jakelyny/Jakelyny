@@ -1,7 +1,7 @@
 <p align="center">
 <br>
 <samp>
-    Hello there! Sou a Jakelyny. <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="20px">
+    Hello there! Sou a Jakelyny. <img width="20" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="20px">
     <br><br>No momento sou uma estudante do Bacharelado em Ciência da Computação no IFSul - Passo Fundo e Programadora Trainee na Compass.uol.<br><br><br>
 </samp>
 <p align="center">
