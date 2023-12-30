@@ -14,9 +14,6 @@
   <i>《 Outros lugares em que podem me encontrar 》</i>
 <p align="center">
 <a href="https://www.linkedin.com/in/jakelyny-sousa-de-ara%C3%BAjo-37ba04213/"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-linkedin-circled-48.png" alt="LinkedIn"></a> &nbsp; &nbsp;
-<a href="https://www.instagram.com/jakelynymonroe/"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-instagram-48.png" alt="Instagram"></a> &nbsp; &nbsp;
-<a href="https://www.facebook.com/jakelyny.voncrimson"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-facebook-48.png" alt="Facebook"></a> &nbsp; &nbsp;
-<a href="mailto:jakelynysousa.a@gmail.com"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-gmail-48.png" alt="Gmail"></a> &nbsp; &nbsp;
 </p>
 
 ---
