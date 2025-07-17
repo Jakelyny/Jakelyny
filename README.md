@@ -2,7 +2,7 @@
 <br>
 <samp>
     Hello there! Sou a Jakelyny. <img width="20" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="20px">
-    <br><br>No momento sou Analista de Suporte de TI na Compass.uol. e graduada em Bacharelado de Ciência da Computação no IFSul e<br><br><br>
+    <br><br>No momento sou Analista de Suporte na CWI e graduada em Bacharelado de Ciência da Computação no IFSul e<br><br><br>
 </samp>
 <p align="center">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150"> 
